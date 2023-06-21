@@ -1,2 +1,2 @@
 # .github
-Dette er en OFFENTLIG readme som viser info om oss på GitHub for alle og enhver.
+Dette er en offentlig repository som blant annet kan brukes for å vise frem en README.md (ligger under /profile/README.md)
